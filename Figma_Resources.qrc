@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Images/Homepage.png</file>
+        <file>Images/login.png</file>
+        <file>Images/Back button.png</file>
+        <file>Images/Manager info.png</file>
+        <file>Images/operator login.png</file>
+        <file>Images/Guest info.png</file>
+        <file>Images/Manager info 2nd pg.png</file>
+        <file>Images/Manager info 3rd pg.png</file>
+        <file>Images/Manager info 4th pg.png</file>
+        <file>Images/Manager info 5th pg.png</file>
+        <file>Images/operator info 3rd pg.png</file>
+        <file>Images/operator 2nd pg.png</file>
+        <file>Images/shipping company-Agent info 2nd pg.png</file>
+        <file>Images/operator info 4th pg.png</file>
+        <file>Images/shipping company-Agent info.png</file>
+        <file>Images/shipping company-Agent info 3rd pg.png</file>
+        <file>Images/shipping company-Agent info 4th pg.png</file>
+        <file>Images/shipping company-Agent info 5th pg.png</file>
+        <file>Images/shipping company-Agent info 6th pg.png</file>
+        <file>Images/Manager info 6th pg.png</file>
+        <file>Images/operator info 5th pg.png</file>
+        <file>Images/operator info 6th pg.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
