@@ -137,29 +137,40 @@ This allows the manager to monitor all important system records from one place.
 # Project Structure
 
 ```text
+# Project Structure
+
+```text
 PortFlow/
 │
-├── main.cpp
-├── mainwindow.cpp
-├── mainwindow.h
-├── mainwindow.ui
+├── PortFlow.pro
 │
-├── database/
-│   └── portflow.db
+├── Headers/
+│   ├── mainwindow.h
+│   ├── manager_info.h
+│   ├── operator_info.h
+│   ├── shipping_company_info.h
+│   └── guest_info.h
 │
-├── images/
-│   ├── backgrounds/
-│   ├── icons/
-│   └── logos/
+├── Sources/
+│   ├── main.cpp
+│   ├── mainwindow.cpp
+│   ├── manager_info.cpp
+│   ├── operator_info.cpp
+│   ├── shipping_company_info.cpp
+│   └── guest_info.cpp
 │
-├── forms/
-│   ├── Manager.ui
-│   ├── Operator.ui
-│   ├── ShippingCompany.ui
-│   ├── Guest.ui
-│   └── About.ui
+├── Forms/
+│   ├── mainwindow.ui
+│   ├── manager_info.ui
+│   ├── operator_info.ui
+│   ├── shipping_company_info.ui
+│   └── guest_info.ui
+│
+├── Resources/
+│   └── Figma_Resources.qrc
 │
 └── README.md
+```
 ```
 
 ---
