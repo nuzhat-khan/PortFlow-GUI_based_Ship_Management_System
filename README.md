@@ -201,31 +201,31 @@ SQLite Database
 
 ---
 
-# Screenshots
+## Screenshots
 
-## Home Page
-![Home Page](screenshots/Screenshot 2026-07-29 213307.png)
+### Home Page
+![Home Page](screenshots/Screenshot%202026-07-29%20213307.png)
 
-## Login Page
-![Login Page](screenshots/Screenshot 2026-07-29 213334.png)
+### Login Page
+![Login Page](screenshots/Screenshot%202026-07-29%20213334.png)
 
-## Manager Login Page
-![Manager Login Page](screenshots/Screenshot 2026-07-29 213543.png)
+### Manager Login Page
+![Manager Login Page](screenshots/Screenshot%202026-07-29%20213543.png)
 
-## Manager Menu Page
-![Manager Menu Page](screenshots/Screenshot 2026-07-29 213307.png)
+### Manager Menu Page
+![Manager Menu Page](screenshots/Screenshot%202026-07-29%20213407.png)
 
-## General Report Page
-![General Report Page](screenshots/Screenshot 2026-07-29 213754.png)
+### General Report Page
+![General Report Page](screenshots/Screenshot%202026-07-29%20213745.png)
 
-## Operator Menu Page
-![Operator Menu Page](screenshots/Screenshot 2026-07-29 213830.png)
+### Operator Menu Page
+![Operator Menu Page](screenshots/Screenshot%202026-07-29%20213830.png)
 
-## Shipping Company Menu Page
-![Shipping Company Menu Page](screenshots/Screenshot 2026-07-29 213307.png)
+### Shipping Company Menu Page
+![Shipping Company Menu Page](screenshots/Screenshot%202026-07-29%20213910.png)
 
-## Guest Menu Page
-![Guest Menu Page](screenshots/Screenshot 2026-07-29 213307.png)
+### Guest Menu Page
+![Guest Menu Page](screenshots/Screenshot%202026-07-29%20213931.png)
 
 # Highlights
 
