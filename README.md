@@ -210,10 +210,10 @@ SQLite Database
 ![Login Page](screenshots/Screenshot%202026-07-29%20213334.png)
 
 ### Manager Login Page
-![Manager Login Page](screenshots/Screenshot%202026-07-29%20213543.png)
+![Manager Login Page](screenshots/Screenshot%202026-07-29%20213407.png)
 
 ### Manager Menu Page
-![Manager Menu Page](screenshots/Screenshot%202026-07-29%20213407.png)
+![Manager Menu Page](screenshots/Screenshot%202026-07-29%20213543.png)
 
 ### General Report Page
 ![General Report Page](screenshots/Screenshot%202026-07-29%20213745.png)
