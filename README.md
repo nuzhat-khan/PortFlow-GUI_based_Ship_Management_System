@@ -1,6 +1,7 @@
 # PortFlow 🚢⚓
 
-A **Port Operations and Shipment Management System** built using **C++, Qt Framework, and SQLite**. PortFlow is a desktop application that simulates the core operations of a modern seaport by providing role-based access for managing shipments, operators, and cargo information.
+A **Port Operations and Shipment Management System** built using **C++, Qt Framework, and SQLite**. PortFlow is a desktop application that simulates the core operations of a modern seaport by providing role-based access for managing shipments, operators, and cargo information.<br>
+Project Report: [PortFlow.pdf](https://github.com/user-attachments/files/30514278/PortFlow.pdf)<br>
 
 ---
 
@@ -199,6 +200,32 @@ SQLite Database
 ```
 
 ---
+
+# Screenshots
+
+## Home Page
+![Home Page](screenshots/Screenshot 2026-07-29 213307.png)
+
+## Login Page
+![Login Page](screenshots/Screenshot 2026-07-29 213334.png)
+
+## Manager Login Page
+![Manager Login Page](screenshots/Screenshot 2026-07-29 213543.png)
+
+## Manager Menu Page
+![Manager Menu Page](screenshots/Screenshot 2026-07-29 213307.png)
+
+## General Report Page
+![General Report Page](screenshots/Screenshot 2026-07-29 213754.png)
+
+## Operator Menu Page
+![Operator Menu Page](screenshots/Screenshot 2026-07-29 213830.png)
+
+## Shipping Company Menu Page
+![Shipping Company Menu Page](screenshots/Screenshot 2026-07-29 213307.png)
+
+## Guest Menu Page
+![Guest Menu Page](screenshots/Screenshot 2026-07-29 213307.png)
 
 # Highlights
 
