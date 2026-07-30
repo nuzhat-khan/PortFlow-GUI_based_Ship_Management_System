@@ -137,7 +137,7 @@ This allows the manager to monitor all important system records from one place.
 
 # Project Structure
 
-```text
+```text  
 # Project Structure
 
 ```text
